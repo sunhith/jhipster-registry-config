@@ -1,0 +1,18 @@
+# ===================================================================
+# JHipster Sample Spring Cloud Config.
+# ===================================================================
+
+# Property used on app startup to check the config server status
+configserver:
+  name: JHipster Registry config server
+  status: Connected to the JHipster Registry config server, using https://github.com/jhipster/jhipster-registry-sample-config !
+
+# Default JWT secret token (to be changed in production!)
+jhipster:
+  security:
+    authentication:
+      jwt:
+        base64-secret: ODRhMGZkNmIyNWQ1NDIwYjMyNGZjOTBmZGI1MWJmNWZmYTVlZjQwMzJkYjUyOWUyZGM3ZGQ5MjZkZDNkZDQ0Zjk1NjQxYTY0Mjg2ODA2NGU1ZTA3ZTZhYTk2NTYxYjA2N2U4NmZmMGIxYWMxOTdiZWZkYTA5NzA3ZTJiOTEwNWY=
+    test:
+      text:
+        message: Hi sunhith!
