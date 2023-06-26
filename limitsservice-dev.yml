@@ -13,6 +13,6 @@ jhipster:
     authentication:
       jwt:
         base64-secret: ODRhMGZkNmIyNWQ1NDIwYjMyNGZjOTBmZGI1MWJmNWZmYTVlZjQwMzJkYjUyOWUyZGM3ZGQ5MjZkZDNkZDQ0Zjk1NjQxYTY0Mjg2ODA2NGU1ZTA3ZTZhYTk2NTYxYjA2N2U4NmZmMGIxYWMxOTdiZWZkYTA5NzA3ZTJiOTEwNWY=
-    test:
-      text:
-        message: Hi sunhith!
+test:
+  text:
+    message: Hi sunhith!
