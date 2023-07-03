@@ -4,6 +4,6 @@
 
 # Property used on app startup to check the config server status
 
-test:
-  text:
-    message: Hi sunhith how are you doing from limits service!
+# test:
+  # text:
+    # message: Hi sunhith how are you doing from limits service!
